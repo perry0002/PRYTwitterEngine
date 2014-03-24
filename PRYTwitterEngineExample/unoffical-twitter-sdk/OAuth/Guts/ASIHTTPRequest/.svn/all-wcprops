@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/ASIHTTPRequest
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/ASIHTTPRequest/ASIHTTPRequest.m
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/ASIHTTPRequest/ASINetworkQueue.h
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/ASIHTTPRequest/ASICacheDelegate.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/ASIHTTPRequest/ASIProgressDelegate.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/ASIHTTPRequest/ASIAuthenticationDialog.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/ASIHTTPRequest/ASIDownloadCache.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/ASIHTTPRequest/ASINetworkQueue.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/ASIHTTPRequest/ASIAuthenticationDialog.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/ASIHTTPRequest/ASIFormDataRequest.h
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/ASIHTTPRequest/ASIInputStream.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/ASIHTTPRequest/ASIFormDataRequest.m
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/ASIHTTPRequest/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/ASIHTTPRequest/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/ASIHTTPRequest/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/ASIHTTPRequest/ASIDownloadCache.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/Crypto
+END
+Base64Transcoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/Crypto/Base64Transcoder.h
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/Crypto/sha1.h
+END
+OAHMAC_SHA1SignatureProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/Crypto/OAHMAC_SHA1SignatureProvider.h
+END
+OASignatureProviding.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/Crypto/OASignatureProviding.h
+END
+hmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/Crypto/hmac.c
+END
+Base64Transcoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/Crypto/Base64Transcoder.c
+END
+OAHMAC_SHA1SignatureProvider.m
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/Crypto/OAHMAC_SHA1SignatureProvider.m
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/Crypto/sha1.c
+END
+hmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/intra/svn/Navi_SmartPhoneAppsDevSrc/!svn/ver/9162/13Model/AdvancedAppMode/iOS/product/TwitterSDK/unoffical-twitter-sdk/OAuth/Guts/Crypto/hmac.h
+END
